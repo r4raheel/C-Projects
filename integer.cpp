@@ -1,3 +1,7 @@
+// Write a program that reads an integer from the command line and checks if it is greater than or
+equal to 0 and smaller than or equal to 100. 
+
+
 #include <iostream>
 using namespace std;
 int main()
